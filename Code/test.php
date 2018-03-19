@@ -1,2 +1,3 @@
 <?php
-echo "aaaa";die();
+// echo "aaaa";die();
+echo "bbbb";die();
